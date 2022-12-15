@@ -1,0 +1,45 @@
+.main-Navbar img{
+ width:180px;
+}
+.main-Navbar{
+    background-color: #e1dcc5;
+}
+.container-fluid{
+    --bs-gutter-x: 0;
+}
+.browse-dropDown{
+    margin-left: 50px;
+}
+.all-button{
+    border: 1px solid #f2f0e7;
+    padding: 10px;
+   
+}
+.search-icon-button{
+    position: absolute;
+    top: 12px;
+    left: 280px;
+}
+.search-icon{
+    width: 24px;
+    cursor: pointer;
+}
+.nav-left-part{
+    margin-bottom: 10px;
+}
+.login-button2{
+    padding: 5px 35px;
+    color: black;
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+.login-button2:hover{
+    color: black;
+}
+.singUp-button2{
+    padding: 5px 25px;
+}
+.search-filed{
+    width: 320px;
+    height: 50px;
+}

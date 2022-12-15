@@ -1,0 +1,30 @@
+.nav-1{
+    height: 40px;
+}
+.nav1-title{
+    font-size: 0.8rem;
+}
+.nav1-left-title{
+    font-size: 0.9rem; 
+}
+.donate{
+    border-radius: 3px;
+    padding: 0 8px;
+    cursor: pointer;
+}
+.icon-1{
+    width: 24px;
+    
+}
+.icon-2{
+    width: 12px;
+    color: red;
+}
+.icon-3{
+    width: 20px;
+   
+}
+.icon-4{
+    width: 16px;
+    cursor: pointer;
+}

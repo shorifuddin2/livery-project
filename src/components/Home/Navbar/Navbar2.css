@@ -1,0 +1,55 @@
+/* .side-nav{
+    
+} */
+.offcanvas-title{
+    border-bottom: 1.5px solid black;
+   
+}
+.offcanvas{
+    width: 310px !important;
+    overflow-y: scroll;
+    background-color: #f2f0e7;
+}
+.offcanvas-title h2{
+   font-size: 1rem;
+}
+.login-button{
+    padding: 5px 35px;
+    color: blue !important;
+}
+.login-button:hover{
+    background-color: white ;
+}
+
+.singUp-button{
+    padding: 5px 35px;
+}
+.offcanvas-list li{
+    list-style: none;
+    border-bottom: 0.5px solid rgb(209, 209, 209);
+    padding: 6px;
+}
+.offcanvas-list li:hover{
+   background-color: white;
+   cursor: pointer;
+}
+.offcanvas-list{
+    padding-left: 15px !important;
+    
+}
+.offCanvas-icon{
+    width: 30px;
+    color: rgb(18, 16, 16) !important;
+}
+.offCanvas-button{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    background-color:#e1dcc5 !important;
+    border: none !important;
+}
+
+.ofcanvas-list-title{
+ border-bottom: 1.5px solid black;
+ padding-left: 15px;
+ padding-bottom: 5px;
+}

@@ -1,0 +1,25 @@
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.footer-title{
+    margin-left: 31px;
+}
+.footer-info{
+    margin-top: 50px;
+}
+.footer-info ul li{
+  list-style: none;
+}
+.footer-info ul li a{
+   color:#003266
+}
+.footer-bottom p{
+ font-size: 0.9rem;
+ 
+ 
+}
+.footer-bottom-icon{
+    width: 30px;
+    height: 40px;
+}
