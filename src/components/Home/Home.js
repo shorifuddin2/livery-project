@@ -5,7 +5,7 @@ import Banner from './Banner/Banner';
 import TrendingBooks from './TrendingBooks/TrendingBooks';
 import ClassicBooks from './ClassicBooks/ClassicBooks';
 import BooksWeLoves from './BooksWeLoves/BooksWeLoves';
-// import RecentlyReturns from './RecentlyReturns/RecentlyReturns';
+import RecentlyReturns from './RecentlyReturns/RecentlyReturns';
 // import Romances from './Romances/Romances';
 // import Kids from './Kids/Kids';
 // import Thrillers from './Thrillers/Thrillers';
@@ -25,8 +25,8 @@ const Home = () => {
              <TrendingBooks></TrendingBooks>
             <ClassicBooks></ClassicBooks>
             <BooksWeLoves></BooksWeLoves>
-           {/* <RecentlyReturns></RecentlyReturns>
-           <Romances></Romances>
+            <RecentlyReturns></RecentlyReturns>
+           {/*<Romances></Romances>
            <Kids></Kids>
            <Thrillers></Thrillers>
            <Textbooks></Textbooks>

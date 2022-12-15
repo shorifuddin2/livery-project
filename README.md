@@ -1,5 +1,3 @@
-* Livery Project
-
-# ReactJs, React-Bootstrap, React Sweeper, 
-
+# Livery Project
+* ReactJs, React-Bootstrap, React Sweeper, 
 * Live Site Link: 
