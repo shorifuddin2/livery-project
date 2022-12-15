@@ -1,0 +1,15 @@
+.around-title{
+   color: #666;
+   font-weight: 700;
+   font-size: 1.8rem;
+}
+.library p{
+  line-height: 0;
+}
+.visitors{
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+.unique{
+    font-size: 11px;
+}

@@ -12,7 +12,7 @@ import Banner from './Banner/Banner';
 // import Textbooks from './Textbooks/Textbooks';
 // import AuthorsAlliances from './AuthorsAlliances/AuthorsAlliances';
 // import BrowseSubjects from './BrowseSubjects/BrowseSubjects';
-// import ArrountLibrarys from './ArrountLibrary/ArrountLibrarys';
+import AroundLibrary from './AroundLibrary/AroundLibrary';
 import AboutProjects from './AboutProjects/AboutProjects';
 import Footer from '../Footer/Footer';
 
@@ -31,8 +31,8 @@ const Home = () => {
            <Thrillers></Thrillers>
            <Textbooks></Textbooks>
            <AuthorsAlliances></AuthorsAlliances>
-           <BrowseSubjects></BrowseSubjects>
-           <ArrountLibrarys></ArrountLibrarys>*/}
+           <BrowseSubjects></BrowseSubjects>*/}
+           <AroundLibrary></AroundLibrary>
            <AboutProjects></AboutProjects>  
            <Footer></Footer>
         </div>
