@@ -1,0 +1,46 @@
+.all-trending-books{
+    background-color: #f3edd7;
+}
+.container{
+    --bs-gutter-x: 0;
+}
+.trending-title{
+    color: blue;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.trending-card{
+    padding: 20px;
+}
+.card-img{
+    width: 130px;
+    height: 200px;
+}
+
+.details-button{
+    margin-top: 10px;
+    border: none;
+    background-color: #007aff;
+    color: white;
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.details-not-button{
+    margin-top: 10px;
+    border: none;
+    background-color: #666;;
+    color: white;
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.details-preview-button{
+    margin-top: 10px;
+    border:2px solid #007aff;
+    background-color: rgb(255, 252, 252);;
+    color: #007aff;
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 5px;
+}

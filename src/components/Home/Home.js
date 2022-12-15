@@ -2,7 +2,7 @@ import React from 'react';
 import MainNavbar from './Navbar/MainNavbar';
 import './Home.css'
 import Banner from './Banner/Banner';
-// import TrendingBooks from './TrendingBooks/TrendingBooks';
+import TrendingBooks from './TrendingBooks/TrendingBooks';
 // import ClassicBooks from './ClassicBooks/ClassicBooks';
 // import BooksWeLoves from './BooksWeLoves/BooksWeLoves';
 // import RecentlyReturns from './RecentlyReturns/RecentlyReturns';
@@ -22,8 +22,8 @@ const Home = () => {
             
             <MainNavbar></MainNavbar>
              <Banner></Banner> 
-            {/* <TrendingBooks></TrendingBooks>
-            <ClassicBooks></ClassicBooks>
+             <TrendingBooks></TrendingBooks>
+            {/*<ClassicBooks></ClassicBooks>
             <BooksWeLoves></BooksWeLoves>
             <RecentlyReturns></RecentlyReturns>
            <Romances></Romances>
