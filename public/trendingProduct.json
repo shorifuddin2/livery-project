@@ -1,7 +1,7 @@
 [
     { 
       "_id":1,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/ygh0gqv/book-1.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -11,7 +11,7 @@
     },
     { 
       "_id":2,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/CwqnTvT/book-2.png",
       "price": 39,
       "quantity": 2,
       "sold": 22,
@@ -22,7 +22,7 @@
     },
     {
       "_id":3,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/FmL9Bk2/book-3.png",
       "price": 39,
       "quantity": 3,
       "sold": 22,
@@ -32,7 +32,7 @@
     },
     {
       "_id":4,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/MRxty76/book-4.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -42,7 +42,7 @@
     },
     {
       "_id":5,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/Fb1TPVn/book-5.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -52,7 +52,7 @@
     },
     {
       "_id":6,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/0ys11BY/book-6.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -62,7 +62,7 @@
     },
     {
       "_id":7,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/FJX7M73/book-7.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -72,7 +72,7 @@
     },
     {
       "_id":8,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/qxfXzfS/book-8.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -82,7 +82,7 @@
     },
     {
       "_id":9,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/r4k9XtK/book-9.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -92,7 +92,7 @@
     },
     {
       "_id":10,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/6BmPJvG/book-10.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -102,7 +102,7 @@
     },
     {
       "_id":11,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/Xb6BJzX/book-11.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -112,7 +112,7 @@
     },
     {
       "_id":12,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/RcYDZtk/book-12.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -122,7 +122,7 @@
     },
     {
       "_id":13,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/HpxQsgk/book-14.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -132,7 +132,7 @@
     },
     {
       "_id":14,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/fQKNXcV/book-15.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -142,7 +142,7 @@
     },
     {
       "_id":15,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/SfSw0VT/book-16.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -152,7 +152,7 @@
     },
     {
       "_id":16,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/XtNJ68G/book-17.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -162,7 +162,7 @@
     },
     {
       "_id":17,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/nRMS1Z6/book-18.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -172,7 +172,7 @@
     },
     {
       "_id":18,
-      "picture": "https://i.ibb.co/KrShps5/book2.jpg",
+      "picture": "https://i.ibb.co/ygh0gqv/book-1.png",
       "price": 39,
       "quantity": 1,
       "sold": 22,
@@ -182,3 +182,5 @@
     }
     
   ]
+
+
