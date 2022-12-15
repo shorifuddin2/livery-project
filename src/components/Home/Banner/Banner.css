@@ -1,0 +1,82 @@
+.banner-title{
+    color: blue;
+    font-weight: 400;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    font-size: 18px;
+      
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .carousel{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 30px;
+    
+  }
+  .banner-slider-part{
+    padding:5px 25px;
+    background-color: #fcfbf7;
+  }
+  .banner-slider-part h6{
+    margin-top: 10px;
+    color:#a19b9e;
+    width: 175px;
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+  .banner-slider-part p{
+    color:#a19b9e;
+    width: 180px;
+    font-size: 0.8rem;
+    font-weight: 400;
+  }
+  .slider-image img{
+    width: 80px;
+  }
+
+  .swiper-button-prev{
+  background-color: #007aff;
+  color: white;
+  padding: 17px;
+   font-weight: bolder;
+   border-radius: 50%;
+  
+  }
+  .swiper-button-next{
+  background-color: #007aff;
+  color: white;
+  padding: 17px;
+  font-weight: bolder;
+  border-radius: 50%;
+  }
+
+  .swiper-button-prev:hover{
+    background-color: #066cda;
+  }
+  .swiper-button-next:hover{
+    background-color: #066cda;
+  }
+  :root {
+    --swiper-navigation-size: 25px;
+    
+  }
+
+

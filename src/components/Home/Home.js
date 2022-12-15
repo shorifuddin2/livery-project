@@ -1,7 +1,7 @@
 import React from 'react';
 import MainNavbar from './Navbar/MainNavbar';
-// import './Home.css'
-// import Banner from './Banner/Banner';
+import './Home.css'
+import Banner from './Banner/Banner';
 // import TrendingBooks from './TrendingBooks/TrendingBooks';
 // import ClassicBooks from './ClassicBooks/ClassicBooks';
 // import BooksWeLoves from './BooksWeLoves/BooksWeLoves';
@@ -21,8 +21,8 @@ const Home = () => {
         <div className='home-page'>
             
             <MainNavbar></MainNavbar>
-            {/* <Banner></Banner>
-            <TrendingBooks></TrendingBooks>
+             <Banner></Banner> 
+            {/* <TrendingBooks></TrendingBooks>
             <ClassicBooks></ClassicBooks>
             <BooksWeLoves></BooksWeLoves>
             <RecentlyReturns></RecentlyReturns>
@@ -33,7 +33,7 @@ const Home = () => {
            <AuthorsAlliances></AuthorsAlliances>
            <BrowseSubjects></BrowseSubjects>
            <ArrountLibrarys></ArrountLibrarys>
-           <AboutProjects></AboutProjects> */}
+           <AboutProjects></AboutProjects>  */}
            <Footer></Footer>
         </div>
     );
