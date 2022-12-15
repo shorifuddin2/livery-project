@@ -4,7 +4,7 @@ import './Home.css'
 import Banner from './Banner/Banner';
 import TrendingBooks from './TrendingBooks/TrendingBooks';
 import ClassicBooks from './ClassicBooks/ClassicBooks';
-// import BooksWeLoves from './BooksWeLoves/BooksWeLoves';
+import BooksWeLoves from './BooksWeLoves/BooksWeLoves';
 // import RecentlyReturns from './RecentlyReturns/RecentlyReturns';
 // import Romances from './Romances/Romances';
 // import Kids from './Kids/Kids';
@@ -24,8 +24,8 @@ const Home = () => {
              <Banner></Banner> 
              <TrendingBooks></TrendingBooks>
             <ClassicBooks></ClassicBooks>
-            {/*<BooksWeLoves></BooksWeLoves>
-            <RecentlyReturns></RecentlyReturns>
+            <BooksWeLoves></BooksWeLoves>
+           {/* <RecentlyReturns></RecentlyReturns>
            <Romances></Romances>
            <Kids></Kids>
            <Thrillers></Thrillers>
