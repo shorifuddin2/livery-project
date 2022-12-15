@@ -1,0 +1,14 @@
+.browse-subject{
+  padding: 20px;
+}
+.browse-img{
+    width: 130px;
+    height: 30px;
+}
+.browse-titles p{
+    line-height: 20px;
+}
+.browse-titles .book-info{
+    line-height: 0px;
+    font-size: 10px;
+}
